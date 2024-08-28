@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 16
+  controlID: 51
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 50
+  controlID: 62
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 15
+  controlID: 124
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -827,9 +827,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 78d2feff
-      m_LastClickedID: -77192
-      m_ExpandedIDs: 82d2feff
+      m_SelectedIDs: 10fbffff
+      m_LastClickedID: -1264
+      m_ExpandedIDs: 1afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -931,18 +931,18 @@ MonoBehaviour:
       y: 21
       width: 722
       height: 262
-    m_Scale: {x: 0.46404386, y: 0.46404386}
-    m_Translation: {x: 341.5056, y: 82.81185}
+    m_Scale: {x: 0.47796518, y: 0.47796518}
+    m_Translation: {x: 335.49078, y: 80.58621}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -735.9339
-      y: -178.45695
-      width: 1555.8875
-      height: 564.6018
+      x: -701.9147
+      y: -168.60269
+      width: 1510.5703
+      height: 548.1571
     m_MinimalGUI: 1
   m_defaultScale: 0.24259259
   m_LastWindowPixelSize: {x: 722, y: 283}
@@ -996,7 +996,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1004,16 +1004,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\andre\Downloads\daniel e seus projetos\projetos unity\UnityRepos\CookieCliquer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 44060000
-    m_LastClickedID: 1604
-    m_ExpandedIDs: 000000000406000000ca9a3b
+    m_SelectedIDs: 64610000
+    m_LastClickedID: 24932
+    m_ExpandedIDs: 000000005461000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1041,7 +1041,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000054610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1068,7 +1068,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000c474000000000000fa6400001c6200003c620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
